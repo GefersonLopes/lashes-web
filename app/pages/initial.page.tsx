@@ -3,7 +3,7 @@ import logo from "../assets/logo.png";
 
 export default function Initial() {
   return (
-    <main className="flex flex-col items-center justify-center min-h-screen py-2 bg-white">
+    <main className="md:max-h-[600px] flex flex-col items-center justify-center min-h-screen py-2 bg-white">
       <header className="text-center mt-10">
         <h1 className="text-7xl font-medium text-pink-700 tracking-wide">
           Emilly

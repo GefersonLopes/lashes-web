@@ -17,11 +17,19 @@ export default function PromoPage() {
             <a
               href="#"
               className="px-6 py-2 h-16 w-26 bg-pink-600 text-white font-semibold rounded-full"
+              onClick={() =>
+                window.open("https://www.instagram.com/emillymelhor/")
+              }
             >
               Ver mais
             </a>
           </footer>
-          <div className="absolute z-10 w-[100vw] -bottom-10 left-0 right-0 text-3xl md:text-6xl font-bold bg-pink-600 text-white p-2 flex items-center justify-center">
+          <div
+            className="absolute z-10 w-[100vw] -bottom-10 left-0 right-0 text-3xl md:text-6xl font-bold bg-pink-600 text-white p-2 flex items-center justify-center"
+            onClick={() =>
+              window.open("https://www.instagram.com/emillymelhor/")
+            }
+          >
             50% OFF
           </div>
         </article>

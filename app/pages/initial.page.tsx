@@ -32,7 +32,10 @@ export default function Initial() {
             </p>
           </figcaption>
         </figure>
-        <button className="px-6 py-2 h-12 w-48 bg-pink-600 text-white font-semibold rounded-full mt-10">
+        <button
+          className="px-6 py-2 h-12 w-48 bg-pink-600 text-white font-semibold rounded-full mt-10"
+          onClick={() => window.open("https://www.instagram.com/emillymelhor/")}
+        >
           Agende agora
         </button>
       </section>

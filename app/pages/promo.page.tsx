@@ -4,8 +4,8 @@ import promo2Image from "../assets/promo_2.png";
 
 export default function PromoPage() {
   return (
-    <main className="md:max-h-[600px] flex items-center justify-center bg-white mt-8">
-      <section className="w-full h-full flex flex-col md:flex-row items-center justify-center relative">
+    <main className="h-[38.125rem] bg-white my-8">
+      <section className="w-full h-full flex flex-col md:flex-row">
         <article className="h-1/2 w-full md:w-1/2 relative">
           <figure>
             <Image
@@ -25,7 +25,7 @@ export default function PromoPage() {
               Ver mais
             </a>
           </footer>
-          <div className="absolute bottom-0 text-xl font-bold bg-pink-600 text-white w-[100vw] h-20 flex items-center justify-center text-8xl">
+          <div className="absolute -bottom-20 text-6xl font-bold bg-pink-600 text-white w-[100vw] h-20 flex items-center justify-center">
             50% OFF
           </div>
         </article>

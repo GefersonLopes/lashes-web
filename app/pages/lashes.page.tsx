@@ -3,7 +3,7 @@ import lashesImage from "../assets/lashes.png";
 
 export default function LashesPage() {
   return (
-    <main className="h-[610px] flex items-center justify-center bg-[#F1B9C6] relative">
+    <main className="h-[38.125rem] bg-[#F1B9C6] relative">
       <div className="absolute inset-0 md:hidden">
         <Image
           src={lashesImage}

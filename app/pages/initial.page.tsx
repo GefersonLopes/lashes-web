@@ -3,7 +3,7 @@ import logo from "../assets/logo.png";
 
 export default function Initial() {
   return (
-    <main className="my-8 md:my-0 md:h-[38.125rem] flex flex-col items-center justify-center bg-white">
+    <main className="my-8 md:h-[38.125rem] flex flex-col items-center justify-center bg-white">
       <header className="text-center">
         <h1 className="text-7xl font-medium text-pink-700 tracking-wide">
           Emilly

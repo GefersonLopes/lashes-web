@@ -14,7 +14,7 @@ export default function LashesPage() {
               Lashes
             </h1>
           </header>
-          <p className="mt-8 text-justify text-2xl font-medium text-black-600 px-6">
+          <p className="mt-8 text-justify text-2xl font-medium text-black px-6">
             Explore nossa seleção de cílios, incluindo o delicado e natural
             &quot;Maria Lashes&quot;, os &quot;Volumosos&quot; para um olhar intenso e marcante, e
             os &quot;Glam Lashes&quot; para um efeito dramático e glamouroso. Escolha o

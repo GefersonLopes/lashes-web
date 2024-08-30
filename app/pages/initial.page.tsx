@@ -11,7 +11,7 @@ export default function Initial() {
         <h2 className="text-3xl text-pink-600 mt-2">Cílios Perfeitos</h2>
       </header>
 
-      <article className="w-3/4 mt-8 text-justify text-2xl font-medium text-black-600 px-6">
+      <article className="w-3/4 mt-8 text-justify text-2xl font-medium text-black px-6">
         Transforme sua expressão com cílios que destacam sua beleza natural. Com
         técnicas avançadas e cuidados especiais, oferecemos o realce ideal para
         cada ocasião. Agende já seu atendimento!
